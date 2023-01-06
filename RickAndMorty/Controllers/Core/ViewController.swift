@@ -7,6 +7,7 @@
 
 import UIKit
 
+///Controller to house tabs and root tab controllers
 final class ViewController: UITabBarController { //to make a tab bar at the bottom of the screen 
 
     override func viewDidLoad() {
